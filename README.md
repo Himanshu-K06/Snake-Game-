@@ -8,13 +8,13 @@ This project demonstrates understanding of game loops, event handling, collision
 ## Features
 
 - Grid-based snake movement using vector mechanics
--Smooth real-time gameplay using Pygame event loop
--Food spawning with collision prevention logic
--Snake growth on eating food
--Boundary and self-collision detection
--Game reset with state management
--Score tracking
--Minimalistic retro UI with custom board boundary and title
+- Smooth real-time gameplay using Pygame event loop
+- Food spawning with collision prevention logic
+- Snake growth on eating food
+- Boundary and self-collision detection
+- Game reset with state management
+- Score tracking
+- Minimalistic retro UI with custom board boundary and title
 
 
 ## Tech Stack
