@@ -19,9 +19,9 @@ This project demonstrates understanding of game loops, event handling, collision
 
 ## Tech Stack
 
-Language: Python
-Library: Pygame
-Paradigm: Object-Oriented Programming
+- Language: Python
+- Library: Pygame
+- Paradigm: Object-Oriented Programming
 
 
 ## Practical understanding of:
